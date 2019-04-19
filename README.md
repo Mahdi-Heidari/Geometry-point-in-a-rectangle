@@ -1,2 +1,4 @@
 # Geometry-point-in-a-rectangle
-Write a program that prompts the user to enter  a point (x, y)and checks whether the point is within the rectangle centered at  (0, 0) with width 10and height 5.
+This program prompts the user to enter  a point (x2, y2) and checks whether the point is within the rectangle with starting point (x1, y1) with user entry width and height number.
+
+### Here are two sample runs
